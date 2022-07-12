@@ -1,0 +1,5 @@
+.vscode/
+__pycache__/
+dbcreds.py
+venv/
+lol.py
